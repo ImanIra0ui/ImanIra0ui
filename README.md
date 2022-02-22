@@ -1,4 +1,4 @@
-### ✨ Hi there ✨ 
+### <p align="center"> ✨ *** Hi there *** ✨ </p>
 🥑 I build random stuff on random days in random intervals. 🥑
 
 
