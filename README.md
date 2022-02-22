@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there🥑
+I build random stuff on random days in random intervals.
+
 
 <!--
 **ImanIra0ui/ImanIra0ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
