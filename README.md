@@ -1,5 +1,5 @@
-### ✨ Hi there 🥑✨ 
-I build random stuff on random days in random intervals.
+### ✨ Hi there ✨ 
+🥑 I build random stuff on random days in random intervals. 🥑
 
 
 <!--
